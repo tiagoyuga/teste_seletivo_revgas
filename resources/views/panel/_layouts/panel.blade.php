@@ -1,0 +1,1 @@
+@include('panel._layouts.modernize.panel')
