@@ -31,12 +31,12 @@
 - API/Microserviços
 
 
-#Descrição do que foi pedido no teste:
-1 - Criar uma tabela no banco de dados MySQL e armazenar a lista de bancos, presente no arquivo em anexo.
-2 - Criar uma api utilizando um framework web da sua escolha, para disponibilizar as informações presentes no banco de dados que você criou, com os seguintes endpoints:
-2.1 - Listagem de todos os bancos - método GET;
-2.2 - Consultar um banco passando o código de compensação como parâmetro - método GET;
-3 - Criar uma tela de consulta dos bancos que irá consumir a api, utilizando um framework web da sua escolha;
+##Descrição do que foi pedido no teste:
+    - 1 - Criar uma tabela no banco de dados MySQL e armazenar a lista de bancos, presente no arquivo em anexo.
+    - 2 - Criar uma api utilizando um framework web da sua escolha, para disponibilizar as informações presentes no banco de dados que você criou, com os seguintes endpoints:
+    - 2.1 - Listagem de todos os bancos - método GET;
+    - 2.2 - Consultar um banco passando o código de compensação como parâmetro - método GET;
+    - 3 - Criar uma tela de consulta dos bancos que irá consumir a api, utilizando um framework web da sua escolha;
 
 Obs: Planilha excel com os dados do banco enviados via email
 (a planilha esta dentro da pasta documents/bancos.xls)
